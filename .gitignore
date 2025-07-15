@@ -1,0 +1,28 @@
+# node_modules folder (local dependencies, heavy files)
+node_modules/
+
+# Environment files (API keys, secrets, etc.)
+.env
+
+# Build output folders
+build/
+dist/
+.next/
+
+# Log files
+*.log
+npm-debug.log*
+
+# IDE/editor-specific folders
+.vscode/
+.idea/
+
+# Mac system file
+.DS_Store
+
+# Test coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
